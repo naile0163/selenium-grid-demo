@@ -6,3 +6,5 @@ Feature: The application should be running
     When I clicked "Form Authentication" page
     And I fill the form with valid credentails
     Then I should see "You logged into a secure area!" message
+
+
